@@ -1,0 +1,38 @@
+
+
+Audio subsystem - mixer setup:
+   There are 8 mixer devices:
+   ...opened mixer 0
+      found line ID 10000 (Master Volume), a component of type 1008, 1 channels
+      ...found the volume control, ID 6
+      ...got control details ffff and 0000
+      found line ID ffff0000 (Master Volume), a component of type 4, 1 channels
+      ...found the volume control, ID 2
+      ...got control details ffff and 0000
+   ...opened mixer 1
+   ...opened mixer 2
+   ...opened mixer 3
+   ...opened mixer 4
+   ...opened mixer 5
+   ...opened mixer 6
+   ...opened mixer 7
+
+
+Audio subsystem - midi setup:
+   There are 1 midi devices:
+   ...midi device 0
+      Microsoft GS Wavetable Synth
+      32 voices
+   A suitable midi device could not be found
+
+
+Audio subsystem - wave setup:
+   There are 6 wave devices:
+   ...wave device 0, Speakers (VIA HD Audio)
+   ...wave device 1, Speakers (Logitech G930 Headset
+   ...wave device 2, SPDIF Interface (TX0) (VIA HD A
+   ...wave device 3, SPDIF Interface (TX1) (VIA HD A
+   ...wave device 4, Headphone (VIA HD Audio)
+   ...wave device 5, 3 - ASUS XG32V (AMD High Defini
+   Default selection of device 0
+Generated local random seeds 277194980, 34542
