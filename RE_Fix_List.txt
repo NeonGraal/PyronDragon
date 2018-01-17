@@ -1,0 +1,178 @@
+Rail Empires: Iron Dragon bug and feature list (client)
+
+-----------------------------------------------------------------
+   1.031.2000.1223 (Public release)
+-----------------------------------------------------------------
+   Fixed? Again, ranked play quit idles the departed player(/AI).
+   Known: Sync loss can disrupt an online game in multiple ways.
+
+-----------------------------------------------------------------
+   1.030.2000.1122 (Public release)
+-----------------------------------------------------------------
+   New  : AI no longer rejects certain races for initial foreman.
+   Fixed: Problem with GL unable to quit from game setup window.
+
+-----------------------------------------------------------------
+   1.029.2000.1102 (Tester release)
+-----------------------------------------------------------------
+   New  : Bell sound in CZ lobby on new player client arrival.
+   New  : Slight tint on online player chat text color.
+   New  : Implemented live log files to reduce net play errors.
+   New  : Revised AI, pass 3c. (moves, loads, builds)
+   New  : Added pointer to full user manual in tutorial text.
+   Fixed: Revised AI, pass 3b, bugfix of build error in 3a.
+   Fixed: Revised AI, some ship/port efficiency issues.
+   Fixed: Some Caicenden mileposts showed as Dul-Ul-Dur (row 60).
+
+-----------------------------------------------------------------
+   1.028.2000.1022 (Tester release)
+-----------------------------------------------------------------
+   New  : Revised AI, pass 3a.
+   New  : Added support for optional Reshuffle Event card.
+   Fixed: Right drag map scroll "wraparound" bug.
+   Fixed: Bug in 1018 on high end loco availabiity.
+   Fixed: Changed handling of GL connection loss in online game.
+   Fixed: Slight format change in CZ lobby window, members list.
+
+-----------------------------------------------------------------
+   1.027.2000.1018 (Tester release)
+-----------------------------------------------------------------
+   New  : Underworld torch light, ambient animation.
+   New  : Ambient sea and event storms at sea animations.
+   New  : All routes shown when starting move not on own track.
+   New  : 3 each availability of Tiamat and Bahamat locos.
+   New  : Note in UI Settings window on editing the config file.
+   New  : Fine-tuned credit text and registration warning text.
+   New  : AI refuses to go into debt for any reason.
+   Fixed: AI will not upgrade to a loco that carries less loads.
+   Fixed: AI cost procedure problem when paying to board ships.
+   Fixed: AI sees rainbow events when connecting major cities.
+   Fixed: AI's casual loading could disrupt its "real" loading.
+   Fixed: Relocated undo button away from done on toolbar.
+   Fixed: Changes affecting wrong things in UI Settings window.
+
+-----------------------------------------------------------------
+   1.026.2000.1009 (Tester release)
+-----------------------------------------------------------------
+   Fixed: Ranking algorithm ensures that there are no ties.
+   Fixed: Hurricane anime #3 was offset by 1 horizontal pixel.
+   Fixed: Off-by-one index click error in contract legend window.
+   Fixed: Contract sequencing buttons were broken in 1004.
+   New  : Only the active local human's GP is public/visible.
+
+-----------------------------------------------------------------
+   1.025.2000.1004 (Tester release)
+-----------------------------------------------------------------
+   New  : Auto-save allows restore of crashed games
+   New  : AI players (via dropout) always pass in ranked games.
+   Fixed: More generous click-space on contract centering.
+   Fixed? Tweaking to loading of saved games online
+   Fixed? Online g. setup, like lobby, uses default player names.
+
+-----------------------------------------------------------------
+   1.024.2000.1001 (Tester release)
+-----------------------------------------------------------------
+   New  : Snow animation.
+   New  : End Turn button now appears on major turn windows.
+   New  : Order-of-play color squares next to Turn on toolbar.
+   New  : Revised AI, pass 3.
+   New  : Shows version number on game windows's title bar.
+   Fixed: Possible over-allocation of audio chat record buffer.
+
+-----------------------------------------------------------------
+   1.023.2000.0917 (IGF 2001 Release)
+-----------------------------------------------------------------
+   New  : Map compass, Sea Serpent and Siren Song animations.
+
+-----------------------------------------------------------------
+   1.012.2000.0908 (Public Release)
+-----------------------------------------------------------------
+   New  : Revised AI, pass 2.
+   New  : Hurricane, Ice Storm, Magic Tempest animations.
+   New  : Uppercase letters now also work as hotkeys.
+   Fixed: Unwanted GL player quit message to CZ in ranked setup.
+   Fixed: Lost cursor sync when dragged off client window.
+   Fixed: Crashing in setup dialog when in 800x600 mode.
+   Fixed: Crashing in game lobby when in 800x600 mode.
+   Fixed? AI taking an already-selected foreman.
+   Fixed? Too-fast initial FM selects on network game handled.
+   Fixed? Allow exit of setup window on server disconnect.
+
+-----------------------------------------------------------------
+   1.011.2000.0904 (Tester Release)
+-----------------------------------------------------------------
+   New  : Revised AI, pass 1.
+
+-----------------------------------------------------------------
+   1.010.2000.0804 (Public Release)
+-----------------------------------------------------------------
+   New  : Added more volcano animations.
+   Fixed: GP checking bug when crossgrading locos with 5 GP.
+
+-----------------------------------------------------------------
+   1.004.2000.0803 (Tester Release)
+-----------------------------------------------------------------
+   New  : Ship dialog uses less space, doesn't need to "open up".
+   New  : Map borders, new resource file (id_borders.nmrf).
+   New  : Restored support for 800x600 graphics mode.
+   Fixed: Page fault during in-game & lobby chat messages.
+
+-----------------------------------------------------------------
+   1.003.2000.0730 (Tester Release)
+-----------------------------------------------------------------
+   New:   Game Leader silently pings clients & CZ across network.
+   New:   Rank 0 players in online game setup show as (unranked).
+   New:   Remote events, when online, forces the resolve window.
+   New:   Better support for in-game player quits online.
+   New:   Better support for online peer disconnects.
+   New:   Some minor tweaks in the move and build windows.
+   Fixed: Was being allowed to pitch during loco placement.
+   Fixed: Error with discarded events, evident in reshuffles.
+   Fixed: Problem in ranked game status message.
+   Fixed: Bug in config test options for Force Top Contract.
+   Fixed: Events in play now kick-started on loaded save game.
+   Fixed: Phantom loco on map during setup has been removed.
+   Fixed: Re-starting ani's in UI window re-syncs events in play.
+   Fixed: Chat edit boxes get default focus in CZ & Game Setup.
+   Fixed? AI gets a kick when replacing a lost online player.
+   Fixed? Tries to restart audio if it stops working.
+
+-----------------------------------------------------------------
+   1.002.2000.0725 (Tester Release)
+-----------------------------------------------------------------
+   New  : In lobby, players show as (unranked), not (rank 0).
+   Fixed: Double chat messages in game setup window fixed.
+   Fixed: There was minor cutoff on some toolbar load symbols.
+   Fixed: Ctrl-space combo is now getting to the desktop.
+   Fixed: Minor jump issue when resizing game window.
+   Fixed: Enforced that only private games can load saved games.
+   Fixed: Client now detects that a game group is private.
+   Fixed: Detecting fail on client attempt to connect to 0.0.0.0.
+   Fixed: Load of saved games (online & offline) SHOULD now work.
+
+-----------------------------------------------------------------
+   1.001.2000.0723 (Tester Release)
+-----------------------------------------------------------------
+   New:   Button on map menu window to change map style.
+   Fixed: Ctrl-key combinations are now getting to the desktop.
+   Fixed: Ctrl-/ while edit had focus was crashing setup window.
+   Fixed: Previous foreman selects not cleared between games.
+   Fixed: Last ship draw/reshuffle thwarted player's ship draw.
+   Fixed: Windows "dragon-head" icon: transparent background.
+
+-----------------------------------------------------------------
+   1.000.2000.0721 (Public Release)
+-----------------------------------------------------------------
+   New:   Added SHUFFLED action to turn stack/history logs.
+   New:   Added warning on Win close (x) button when in play.
+   New:   Improved scrollbar dragging outside of client area.
+   Fixed: Enabled ranked play reporting.
+   Fixed: First CZ entry in config file was being overridden.
+   Fixed: Pitch button appeared when player was losing a turn.
+   Fixed: Cleared turn stack and history logs between games.
+   Fixed: Must supply a password to request a private group.
+   Fixed: Better screen repaint on remote player builds.
+   Fixed: Returned contract sequence text to initial foreman win.
+   Fixed: Game Leader's PUBLIC MONEY test setting used online.
+   Fixed: Restored game's random seed dump to err.txt.
+   Fixed: Tweaked Eden text in Title Screen credits list.

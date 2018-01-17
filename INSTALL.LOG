@@ -1,0 +1,87 @@
+***  Installation Started 05/30/2006 15:38  ***
+Title: Rail Empires : Iron Dragon Installation
+Source: E:\Iron Dragon\idpc_1223_all.exe | 01-13-2001 | 11:40:12 | 14586849
+System Restore: Enabled
+Made Dir: C:\Program Files\Eden Studios
+Made Dir: C:\Program Files\Eden Studios\Rail Empires
+File Copy: C:\Program Files\Eden Studios\Rail Empires\UNWISE.EXE | 06-25-1999 | 09:55:30 | | 149504 | 30fdd633
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Rail Empires : Iron Dragon
+RegDB Val: Rail Empires : Iron Dragon
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Rail Empires : Iron Dragon
+RegDB Val: C:\PROGRA~1\EDENST~1\RAILEM~1\UNWISE.EXE C:\PROGRA~1\EDENST~1\RAILEM~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_anime_x3.nmrf | 10-17-2000 | 18:17:28 | | 982373 | 20a5eedc
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_anime_x2b.nmrf | 09-18-2000 | 18:43:22 | | 1367434 | 453e4413
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_anime_x2.nmrf | 09-06-2000 | 20:40:32 | | 698276 | 4a6fdfef
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_anime_x1.nmrf | 08-03-2000 | 20:01:36 | | 212202 | b1931f7d
+File Copy: C:\Program Files\Eden Studios\Rail Empires\RE-ID_User's_Manual.pdf | 10-23-2000 | 21:26:58 | | 697274 | 86de9785
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_borders.nmrf | 08-03-2000 | 19:39:34 | | 1112104 | 3dd10b5d
+File Copy: C:\Program Files\Eden Studios\Rail Empires\RE_Fix_List.txt | 12-23-2000 | 11:51:56 | | 9525 | e80a8d74
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_icons.nmrf | 07-21-2000 | 21:48:40 | | 31950 | 456ebbef
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_animations3.nmrf | 07-15-2000 | 20:24:02 | | 413925 | 51472200
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_animations2.nmrf | 07-15-2000 | 21:01:52 | | 896724 | d342f08f
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_animations.nmrf | 08-03-2000 | 19:53:12 | | 1310627 | 65ff2938
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_cards.nmrf | 07-15-2000 | 21:57:06 | | 2218414 | da6aec6c
+File Copy: C:\Program Files\Eden Studios\Rail Empires\config_file_gen.exe | 07-21-2000 | 07:24:24 | | 45056 | e4a2e581
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_fonts.nmrf | 05-18-2000 | 12:33:46 | | 61450 | 39b78ed9
+File Copy: C:\Program Files\Eden Studios\Rail Empires\re-id.exe | 12-23-2000 | 11:49:54 | 1.31.2000.1223 | 417845 | c1c21c58
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id.nmrf | 10-31-2000 | 19:12:44 | | 44546 | 34faf3f
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_maps.nmrf | 05-12-2000 | 12:53:00 | | 3756202 | 641bde2c
+File Copy: C:\Program Files\Eden Studios\Rail Empires\id_media.nmrf | 05-12-2000 | 12:55:46 | | 427565 | caff6026
+Made Dir: C:\Documents and Settings\All Users\Start Menu\Programs\Eden Studios
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\Eden Studios\Rail_Empires_Config.lnk
+Link Info: C:\Program Files\Eden Studios\Rail Empires\Rail_Empires_Config.txt | C:\Program Files\Eden Studios\Rail Empires |  | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\Eden Studios\Rail Empires - Iron Dragon.lnk
+Link Info: C:\Program Files\Eden Studios\Rail Empires\re-id.exe | C:\Program Files\Eden Studios\Rail Empires |  | 0 | 1 | 0 | 
+Made Dir: C:\Documents and Settings\Gordon\Start Menu\Programs\Eden Studios
+Shell Link: C:\Documents and Settings\Gordon\Start Menu\Programs\Eden Studios\RE-ID_User's_Manual.lnk
+Link Info: C:\Program Files\Eden Studios\Rail Empires\RE-ID_User's_Manual.pdf |  |  | 0 | 1 | 0 | 
+File Copy: C:\Program Files\Eden Studios\Rail Empires\Copy of license.1.5.dat
+File Copy: C:\Program Files\Eden Studios\Rail Empires\license.1.5.dat
+RegDB Key: Software\Eden Studios\Rail Empires\id
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Eden Studios\Rail Empires\id
+RegDB Val: C:\Program Files\Eden Studios\Rail Empires
+RegDB Name: Path
+RegDB Root: 1
+RegDB Tree: Software\Eden Studios\Rail Empires\id
+RegDB Root: 1
+File Tree: C:\Program Files\Eden Studios\Rail Empires\config_file_gen.exe
+File Tree: C:\Program Files\Eden Studios\Rail Empires\*.nmrf
+File Tree: C:\Program Files\Eden Studios\Rail Empires\install.log
+File Tree: C:\Program Files\Eden Studios\Rail Empires\Rail_Empires_Config.txt
+File Tree: C:\Program Files\Eden Studios\Rail Empires\RE_Fix_List.txt
+File Tree: C:\Program Files\Eden Studios\Rail Empires\re-id.exe
+File Tree: C:\Program Files\Eden Studios\Rail Empires\RE-ID_User's_Manual.pdf
+RegDB Key: Software\Eden Studios\Rail Empires\id
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Eden Studios\Rail Empires\id
+RegDB Val: Gorgox
+RegDB Name: Username
+RegDB Root: 1
+RegDB Key: Software\Eden Studios\Rail Empires\id
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Eden Studios\Rail Empires\id
+RegDB Val: Gorgox
+RegDB Name: Username
+RegDB Root: 1
+RegDB Old: Gorgox
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Rail Empires : Iron Dragon
+RegDB Val: Eden Studios
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Rail Empires : Iron Dragon
+RegDB Val: http://www.irondragon.org
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Rail Empires : Iron Dragon
+RegDB Val: C:\Program Files\Eden Studios\Rail Empires\id.exe,-0
+RegDB Name: DisplayIcon
+RegDB Root: 2
+User Rights: Admin

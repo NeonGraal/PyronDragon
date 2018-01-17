@@ -1,0 +1,36 @@
+; Rail Empires Configuration Data File
+
+$USER INTERFACE
+;  Screen Resolution            = 1024.768.32
+;  Right Drag Map Effect        = Scroll
+;  Follow Remote/AI Moves       = No
+   Follow Remote/AI Builds      = No
+;  Default Sound Device ID      = 0
+;  Default Music Device ID      = 0
+;  Default Sound Volume Pct     = 75
+;  Default Music Volume Pct     = 75
+;  Default Total Volume Pct     = 75
+   Create Audio Config Listing  = Yes
+
+$NETWORK NAMES
+   Default Player Name          = Gorgox
+   Inbound Port Number          = 38275
+
+$CONNECTION ZONE
+   Name                         = The Official Eden CZ
+   Primary Address              = irondragon.org
+   Secondary Address            = 209.95.108.148
+   Port Number                  = 44099
+
+$DEFAULT OPTIONS
+;  Special Top End Locos        = Yes
+;  Rainbow Bridge Duration      = Forever
+;  Cross-Grading                = Yes
+;  Victory Money                = Really Easy
+;  AI Skill Level               = Really Easy
+
+$TEST OPTIONS
+;  Force Public GP              = Yes
+;  Force Top Contract           = 127   ; Free Dragons Attack
+;  Random Seed Value 1          = 1150
+;  Random Seed Value 2          = 314159
